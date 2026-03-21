@@ -1,25 +1,111 @@
+<!-- 🔥 Typing Animation -->
+
 <h1 align="center">Hi 👋, I'm Harpal Chauhan</h1>
-<h3 align="center">"Learning every day, growing every way 🚀"</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+MERN+Developer;Building+Real+World+Projects;Frontend+Focused+Developer;Always+Improving+🚀" />
+</h3>
 
-<img align="right" alt= "coding" width="400" src= "[https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harpal-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="harpal-chauhan" /> </p>
+## 👀 Profile Views  
 
-- 🌱 I’m currently learning **MERN Stack**
-
-- ⚡ Fun fact ** I am funny 😅 **
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harpal chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harpal chauhan" height="30" width="40" /></a>
-<a href="https://instagram.com/chauhan_harpal_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chauhan_harpal_007" height="30" width="40" /></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=harpal-chauhan&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harpal-chauhan&show_icons=true&locale=en&layout=compact" alt="harpal-chauhan" /></p>
+<!-- 🔥 Banner GIF -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harpal-chauhan&show_icons=true&locale=en" alt="harpal-chauhan" /></p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="500"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harpal-chauhan&" alt="harpal-chauhan" /></p>
+---
+
+## 🚀 About Me
+
+💻 Passionate **Full Stack MERN Developer** <br>
+🎯 Strong focus on **Frontend Development & UI/UX** <br>
+⚡ Love building modern, fast & scalable web apps <br>
+🚀 Recently completed an AI-based project
+
+---
+
+## 💡 What I Do  
+
+- 💻 Build full-stack web applications using MERN  
+- 🎨 Create modern and responsive UI designs  
+- 🤖 Integrate AI into real-world applications  
+- ⚡ Focus on performance and clean code  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+* Advanced React Patterns
+* Performance Optimization (Frontend)
+* API Integration & Data Handling
+* Clean Code & Project Architecture
+
+---
+
+## 🚀 Highlight Project  
+
+### 🔥 Interview Prep AI (Completed ✅)  
+
+🤖 AI-powered platform for interview preparation  
+⚡ Generates smart interview questions & answers  
+🧠 Built using MERN Stack + AI API  
+🎯 Focused on real-world interview practice  
+
+🔗 Live Demo: https://interview-prep-ai-hc.netlify.app <br>
+💻 GitHub Repo: https://github.com/Harpal-Chauhan/Interview-Prep-AI
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://in.linkedin.com/in/harpal-chauhan-92b7012aa?trk=people-guest_people_search-card">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://instagram.com/chauhan_harpal_007">
+<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=harpal-chauhan&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harpal-chauhan&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🏆 Achievements  
+
+- 🚀 Built and deployed a full-stack AI-based application  
+- 💡 Hands-on experience with MERN + AI integration  
+- 📈 Continuously improving problem-solving & development skills  
+
+---
+
+## ⭐ Support
+
+⭐ If you like my work, give a star to my repositories
+
+---
+
+<h3 align="center">💬 "Code. Learn. Build. Repeat." 🚀</h3>
